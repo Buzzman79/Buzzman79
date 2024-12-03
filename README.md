@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Buzzman79
 - 👀 I’m interested in python
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning c, assembly.
